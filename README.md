@@ -20,4 +20,4 @@ my_green_personal_logger.info('something is happening with another feature')
 
 ```
 
-This is useful when onboarding on large and/or convoluted codebases where the call stack is not obvious from the architecture. In such cases we might want to log different things with different colors to beytter keep track them. 
+This is useful when onboarding on large and/or convoluted codebases where the call stack is not obvious from the architecture. In such cases we might want to log different variables with different colors to better keep track of the changes in state.
